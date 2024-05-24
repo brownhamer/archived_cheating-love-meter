@@ -13,6 +13,3 @@ let max = 0
 let min = 0
 min = 0
 max = 99
-basic.forever(function () {
-	
-})
